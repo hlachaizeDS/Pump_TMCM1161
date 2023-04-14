@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+pyTMCL/__init__.py
+pyTMCL/bus.py
+pyTMCL/commands.py
+pyTMCL/motor.py
+pyTMCL/reply.py
+pyTMCL/trigger_thread.py
+pyTMCL.egg-info/PKG-INFO
+pyTMCL.egg-info/SOURCES.txt
+pyTMCL.egg-info/dependency_links.txt
+pyTMCL.egg-info/not-zip-safe
+pyTMCL.egg-info/requires.txt
+pyTMCL.egg-info/top_level.txt
